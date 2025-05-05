@@ -1,0 +1,129 @@
+"Physical Use Table for Water Resources"
+
+"Year","Inputs","Agriculture, Forestry and Fishing","Mining and Quarrying, Manufacturing, and Construction","Electricity and Steam","Water Supply","Other Industries","Households","Accumulation","Flows to the environment"
+"2010","..Surface water",66862,7850,110747,1829,3176,.,.,.
+"2010","..Ground water",1020,417,61,813,1307,.,.,.
+"2010","..Distributed water",71,342,13,0,423,394,.,.
+"2010","..Own use of water",67882,8267,110808,2,4483,722,.,.
+"2010","..Return to inland water resources",.,.,.,.,.,.,.,146391
+"2010","..Return to other sources",.,.,.,.,.,.,.,0
+"2010","..Evaporation of abstracted water",.,.,.,.,.,.,.,728
+"2010","..Transpiration",.,.,.,.,.,.,.,45931
+"2010","..Water incorporated to products",.,.,.,.,.,.,1033,.
+"2011","..Surface water",66865,8507,110963,1889,3169,.,.,.
+"2011","..Ground water",1020,452,61,840,1303,.,.,.
+"2011","..Distributed water",77,350,12,0,447,450,.,.
+"2011","..Own use of water",67885,8959,111024,2,4472,736,.,.
+"2011","..Return to inland water resources",.,.,.,.,.,.,.,146555
+"2011","..Return to other sources",.,.,.,.,.,.,.,0
+"2011","..Evaporation of abstracted water",.,.,.,.,.,.,.,507
+"2011","..Transpiration",.,.,.,.,.,.,.,46889
+"2011","..Water incorporated to products",.,.,.,.,.,.,1117,.
+"2012","..Surface water",66872,8581,111837,2000,3129,.,.,.
+"2012","..Ground water",1020,456,62,889,1283,.,.,.
+"2012","..Distributed water",83,347,13,0,486,519,.,.
+"2012","..Own use of water",67892,9037,111899,2,4412,774,.,.
+"2012","..Return to inland water resources",.,.,.,.,.,.,.,146253
+"2012","..Return to other sources",.,.,.,.,.,.,.,0
+"2012","..Evaporation of abstracted water",.,.,.,.,.,.,.,504
+"2012","..Transpiration",.,.,.,.,.,.,.,48246
+"2012","..Water incorporated to products",.,.,.,.,.,.,1126,.
+"2013","..Surface water",66870,8598,114737,2075,3179,.,.,.
+"2013","..Ground water",1021,456,63,922,1297,.,.,.
+"2013","..Distributed water",89,354,14,0,526,576,.,.
+"2013","..Own use of water",67891,9054,114800,2,4476,782,.,.
+"2013","..Return to inland water resources",.,.,.,.,.,.,.,148229
+"2013","..Return to other sources",.,.,.,.,.,.,.,0
+"2013","..Evaporation of abstracted water",.,.,.,.,.,.,.,514
+"2013","..Transpiration",.,.,.,.,.,.,.,49346
+"2013","..Water incorporated to products",.,.,.,.,.,.,1129,.
+"2014","..Surface water",66890,8630,115212,2183,3139,.,.,.
+"2014","..Ground water",1021,458,64,970,1273,.,.,.
+"2014","..Distributed water",100,401,16,0,559,608,.,.
+"2014","..Own use of water",67911,9088,115275,2,4412,819,.,.
+"2014","..Return to inland water resources",.,.,.,.,.,.,.,148589
+"2014","..Return to other sources",.,.,.,.,.,.,.,0
+"2014","..Evaporation of abstracted water",.,.,.,.,.,.,.,511
+"2014","..Transpiration",.,.,.,.,.,.,.,49602
+"2014","..Water incorporated to products",.,.,.,.,.,.,1139,.
+"2015","..Surface water",66902,9385,115211,2332,3050,.,.,.
+"2015","..Ground water",1009,546,65,1041,1228,.,.,.
+"2015","..Distributed water",100,412,16,0,615,693,.,.
+"2015","..Own use of water",67910,9931,115275,2,4277,849,.,.
+"2015","..Return to inland water resources",.,.,.,.,.,.,.,149719
+"2015","..Return to other sources",.,.,.,.,.,.,.,0
+"2015","..Evaporation of abstracted water",.,.,.,.,.,.,.,503
+"2015","..Transpiration",.,.,.,.,.,.,.,49304
+"2015","..Water incorporated to products",.,.,.,.,.,.,1241,.
+"2016","..Surface water",66906,10000,115211,2460,2968,.,.,.
+"2016","..Ground water",1011,565,65,1111,1213,.,.,.
+"2016","..Distributed water",103,437,17,0,663,752,.,.
+"2016","..Own use of water",67916,10565,115275,2,4181,875,.,.
+"2016","..Return to inland water resources",.,.,.,.,.,.,.,151166
+"2016","..Return to other sources",.,.,.,.,.,.,.,0
+"2016","..Evaporation of abstracted water",.,.,.,.,.,.,.,498
+"2016","..Transpiration",.,.,.,.,.,.,.,48526
+"2016","..Water incorporated to products",.,.,.,.,.,.,1320,.
+"2017","..Surface water",66925,15271,120262,2618,3071,.,.,.
+"2017","..Ground water",1017,580,65,1150,1223,.,.,.
+"2017","..Distributed water",110,444,17,0,705,810,.,.
+"2017","..Own use of water",67942,15851,120327,2,4293,878,.,.
+"2017","..Return to inland water resources",.,.,.,.,.,.,.,159476
+"2017","..Return to other sources",.,.,.,.,.,.,.,0
+"2017","..Evaporation of abstracted water",.,.,.,.,.,.,.,513
+"2017","..Transpiration",.,.,.,.,.,.,.,50238
+"2017","..Water incorporated to products",.,.,.,.,.,.,1955,.
+"2018","..Surface water",66926,15537,122392,2769,2979,.,.,.
+"2018","..Ground water",1019,587,65,1217,1184,.,.,.
+"2018","..Distributed water",122,470,19,0,738,896,.,.
+"2018","..Own use of water",67945,16124,122457,2,4163,910,.,.
+"2018","..Return to inland water resources",.,.,.,.,.,.,.,162071
+"2018","..Return to other sources",.,.,.,.,.,.,.,0
+"2018","..Evaporation of abstracted water",.,.,.,.,.,.,.,503
+"2018","..Transpiration",.,.,.,.,.,.,.,50109
+"2018","..Water incorporated to products",.,.,.,.,.,.,1991,.
+"2019","..Surface water",66771,9113,130985,2886,2963,.,.,.
+"2019","..Ground water",1039,692,75,1280,1176,.,.,.
+"2019","..Distributed water",116,465,20,0,809,954,.,.
+"2019","..Own use of water",67809,9806,131060,3,4139,970,.,.
+"2019","..Return to inland water resources",.,.,.,.,.,.,.,165589
+"2019","..Return to other sources",.,.,.,.,.,.,.,0
+"2019","..Evaporation of abstracted water",.,.,.,.,.,.,.,508
+"2019","..Transpiration",.,.,.,.,.,.,.,49649
+"2019","..Water incorporated to products",.,.,.,.,.,.,1232,.
+"2020","..Surface water",66811,9144,131106,3058,3447,.,.,.
+"2020","..Ground water",1040,1414,75,1372,1115,.,.,.
+"2020","..Distributed water",133,452,21,0,883,1000,.,.
+"2020","..Own use of water",67851,10558,131181,3,4562,1050,.,.
+"2020","..Return to inland water resources",.,.,.,.,.,.,.,167181
+"2020","..Return to other sources",.,.,.,.,.,.,.,0
+"2020","..Evaporation of abstracted water",.,.,.,.,.,.,.,559
+"2020","..Transpiration",.,.,.,.,.,.,.,49521
+"2020","..Water incorporated to products",.,.,.,.,.,.,1321,.
+"2021","..Surface water",66805,10467,132339,3198,3414,.,.,.
+"2021","..Ground water",1044,1423,75,1463,1112,.,.,.
+"2021","..Distributed water",137,466,21,0,926,970,.,.
+"2021","..Own use of water",67848,11890,132415,3,4526,1150,.,.
+"2021","..Return to inland water resources",.,.,.,.,.,.,.,168570
+"2021","..Return to other sources",.,.,.,.,.,.,.,0
+"2021","..Evaporation of abstracted water",.,.,.,.,.,.,.,560
+"2021","..Transpiration",.,.,.,.,.,.,.,50726
+"2021","..Water incorporated to products",.,.,.,.,.,.,1483,.
+"2022","..Surface water",66876,12081,134993,3394,3453,.,.,.
+"2022","..Ground water",1061,1445,75,1585,1066,.,.,.
+"2022","..Distributed water",142,505,25,0,984,1037,.,.
+"2022","..Own use of water",67937,13526,135069,3,4518,1259,.,.
+"2022","..Return to inland water resources",.,.,.,.,.,.,.,172492
+"2022","..Return to other sources",.,.,.,.,.,.,.,0
+"2022","..Evaporation of abstracted water",.,.,.,.,.,.,.,1025
+"2022","..Transpiration",.,.,.,.,.,.,.,50828
+"2022","..Water incorporated to products",.,.,.,.,.,.,1684,.
+"2023","..Surface water",66903,12105,135124,3774,3159,.,.,.
+"2023","..Ground water",1062,1448,76,1763,915,.,.,.
+"2023","..Distributed water",146,459,25,0,1114,1165,.,.
+"2023","..Own use of water",67965,13553,135200,3,4074,1285,.,.
+"2023","..Return to inland water resources",.,.,.,.,.,.,.,172125
+"2023","..Return to other sources",.,.,.,.,.,.,.,0
+"2023","..Evaporation of abstracted water",.,.,.,.,.,.,.,1024
+"2023","..Transpiration",.,.,.,.,.,.,.,51498
+"2023","..Water incorporated to products",.,.,.,.,.,.,1681,.
